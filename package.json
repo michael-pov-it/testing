@@ -1,0 +1,26 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "Testing. Uni tests, Functional tests. TDD, BDD. ESLint, .editorconfig.",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael-pov-it/testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michael-pov-it/testing/issues"
+  },
+  "homepage": "https://github.com/michael-pov-it/testing#readme",
+  "devDependencies": {
+    "cross-env": "^6.0.3",
+    "eslint": "^6.6.0",
+    "nodemon": "^1.19.4"
+  }
+}
